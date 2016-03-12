@@ -1,3 +1,4 @@
+// C'est la config par défaut de l'install de Ghost
 // # Ghost Configuration
 // Setup your Ghost install for various [environments](http://support.ghost.org/config/#about-environments).
 
