@@ -1,4 +1,4 @@
-// # Ghost Startup
+// # Ceci est un fichier tiré de l'installation de Ghost
 // Orchestrates the startup of Ghost when run from command line.
 var express,
     ghost,
